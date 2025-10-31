@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(0,48,73);
+}
+
+  h1 {
+    color:rgb(193, 18, 31);
+  }
+
+  p {
+    color: rgb(253, 240, 213);
+  }
+
+  button{
+    color:black;
+  }
+
+  button {
+    background-color : green;
+  }
+  
+
+ 
+  
